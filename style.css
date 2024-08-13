@@ -1,0 +1,21 @@
+
+
+#titulo {
+    width: 50%;
+    text-align: center;
+}
+
+#contenido{
+    margin: 50px;
+}
+
+#imagen {
+    float: right;
+    margin-right: 700px;
+}
+
+#link {
+    float: right;
+    margin-right: 830px;
+    margin-top: 240px;
+}
